@@ -1,3 +1,4 @@
+![logo](https://github.com/amitsitare/amitsitare/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Amit Diwakar</h1>
 <h3 align="center">A passionate software Engineer from India.</h3>
 
